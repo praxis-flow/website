@@ -1,4 +1,4 @@
-# Site setting
+#  Site setting
 baseurl = "https://heuristic-neumann-084234.netlify.com"
 languageCode = "en-us"
 title = "praxisflow"
