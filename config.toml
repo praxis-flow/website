@@ -191,6 +191,19 @@ googleAnalytics = ""
       bio = """Cat thinks describing oneself in third person is weird.
 """
 
+   [[params.team.members]]
+      img = "Paul_Nov_2017_sm.jpg"
+      name = "Paul Hammant"
+      position = "Visiting Scientist"
+      social = [
+        ["fa-home", "https://hammant.org"],
+        ["fa-github-alt", "https://github.com/paul-hammant"],
+        ["fa-twitter", "https://twitter.com/paul_hammant"],
+        ["fa-linkedin", "https://www.linkedin.com/in/paulhammant/"]
+      ]
+      bio = """Paul likes source-control <b>a lot</b>.
+"""
+
   # Client section
     [params.clients_list]
       enable = false 
