@@ -180,7 +180,7 @@ googleAnalytics = ""
       ]
 
     [[params.team.members]]
-      img = "cat-swetel.jpg"
+      img = "teamcat.jpg"
       name = "Cat Swetel"
       position = "Director & Principal Consultant"
       social = [
@@ -189,6 +189,18 @@ googleAnalytics = ""
         ["fa-linkedin", "#"]
       ]
       bio = """Cat thinks describing oneself in third person is weird.
+"""
+
+    [[params.team.members]]
+      img = "Team-Rashida1.jpg"
+      name = "Rashida Pratis"
+      position = "Design Director & Consultant"
+      social = [
+        ["fa-twitter", "#"],
+        ["fa-facebook", "#"],
+        ["fa-linkedin", "#"]
+      ]
+      bio = """Rashida is passionate about designing human-centered products & services.
 """
 
   # Client section
