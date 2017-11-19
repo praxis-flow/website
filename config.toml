@@ -216,6 +216,25 @@ Currently he is pursuing a PhD in Design Studies at Carnegie Mellon University (
       bio = """Complex adaptive system based educator specializing in inquiry and experimentation based pedagogy
 """
 
+    [[params.team.members]]
+      img = "ben-headshot.jpg"
+      name = "Ben Mosior"
+      position = "Visiting Scientist"
+      #reportsTo = ""
+      livesIn = "Pittsburgh, PA"
+      #Scope is for your bragging purposes... link to other projects/sites
+      scope = [
+        "Co-Organizer [Map Camp](http://www.map-camp.com/)",
+        "Program Manager [Forte Labs](https://www.fortelabs.co/)"
+      ]
+      # For bio markdown and even multiline strings are available.
+      bio = """Explorer of problem spaces. Empathy, discernment, design, strategy. 
+"""
+      social = [
+        ["fa-twitter", "https://twitter.com/BenMosior"],
+        ["fa-linkedin", "https://www.linkedin.com/in/benjaminmosior/"]
+      ]
+
   # Client section
     [params.clients_list]
       enable = false 
