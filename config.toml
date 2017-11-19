@@ -1,5 +1,5 @@
 # Site setting
-baseurl = "https://example.org/"
+baseurl = "https://heuristic-neumann-084234.netlify.com"
 languageCode = "en-us"
 title = "praxisflow"
 theme = "hugo-agency-theme"
