@@ -203,6 +203,19 @@ googleAnalytics = ""
       bio = """Rashida is passionate about designing human-centered products & services.
 """
 
+
+    [[params.team.members]]
+      img = "Team-Mike.jpg"
+      name = "Mike Caponero"
+      position = "Director of Training and Instructional Design"
+      social = [
+        ["fa-twitter", "#"],
+        ["fa-facebook", "#"],
+        ["fa-linkedin", "#"]
+      ]
+      bio = """Complex adaptive system based educator specializing in inquiry and experimentation based pedagogy
+"""
+
   # Client section
     [params.clients_list]
       enable = false 
