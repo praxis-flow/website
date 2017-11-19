@@ -1,5 +1,5 @@
 #  Site setting
-baseurl = "https://heuristic-neumann-084234.netlify.com"
+baseurl = "http://www.praxisflow.com"
 languageCode = "en-us"
 title = "praxisflow"
 theme = "hugo-agency-theme"
@@ -174,6 +174,9 @@ googleAnalytics = ""
       name = "Jabe Bloom"
       position = "CoFounder & Chief SocioTechnical Officer"
       livesIn = "[Pittsburgh, PA](#some-maps-url)"
+      bio = """An experienced executive leader of software and product development companies. For 20 years he has focused on connecting design with software engineering and operational excellence. 
+
+Currently he is pursuing a PhD in Design Studies at Carnegie Mellon University (PA).  His research focuses on understanding how temporality can better inform Transition Design."""
       social = [
         ["fa-twitter", "https://twitter.com/cyetain"],
         ["fa-linkedin", "https://www.linkedin.com/in/jabebloom/"]
@@ -184,9 +187,8 @@ googleAnalytics = ""
       name = "Cat Swetel"
       position = "Director & Principal Consultant"
       social = [
-        ["fa-twitter", "#"],
-        ["fa-facebook", "#"],
-        ["fa-linkedin", "#"]
+        ["fa-twitter", "https://twitter.com/catswetel"],
+        ["fa-linkedin", "https://www.linkedin.com/in/catswetel/"]
       ]
       bio = """Cat thinks describing oneself in third person is weird.
 """
@@ -197,7 +199,6 @@ googleAnalytics = ""
       position = "Design Director & Consultant"
       social = [
         ["fa-twitter", "#"],
-        ["fa-facebook", "#"],
         ["fa-linkedin", "#"]
       ]
       bio = """Rashida is passionate about designing human-centered products & services.
@@ -210,7 +211,6 @@ googleAnalytics = ""
       position = "Director of Training and Instructional Design"
       social = [
         ["fa-twitter", "#"],
-        ["fa-facebook", "#"],
         ["fa-linkedin", "#"]
       ]
       bio = """Complex adaptive system based educator specializing in inquiry and experimentation based pedagogy
