@@ -247,7 +247,7 @@ Currently he is pursuing a PhD in Design Studies at Carnegie Mellon University (
   [params.contact]
     enable = true
     title = "Contact us"
-    subtitle  = "Lorem ipsum dolor sit amet consectetur."
+    subtitle  = "Let us know how we can help."
     buttonText = "Send message"
 
     # Since this template is static, the contact form uses www.formspree.io as a
