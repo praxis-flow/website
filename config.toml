@@ -235,7 +235,7 @@ Currently he is pursuing a PhD in Design Studies at Carnegie Mellon University (
 
        # For bio markdown and even multiline strings are available.
 
-       bio = """A rational thinker with roots in systems engineering and object modeling. Over 25 years of expereince delivering simplified solutions that meet current needs while enabling future growth.
+       bio = """A rational thinker with roots in systems engineering and object modeling. Over 25 years of experience delivering simplified solutions that meet current needs while enabling future growth.
  """
 
        social = [
