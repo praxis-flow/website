@@ -5,7 +5,7 @@ title = "praxisflow"
 theme = "hugo-agency-theme"
 
 # Enter your tracking code to enable Google Analytics
-googleAnalytics = ""
+googleAnalytics = "UA-109910809-1"
 
 [params]
   # You can use Markdown syntax for urls [text](//url.to/source) or
@@ -109,7 +109,7 @@ googleAnalytics = ""
 
   # Portfolio section
   [params.portfolio]
-    enable = false 
+    enable = false
     # All projects defined in their own files. You can find example projects
     # at 'exampleSite/data/projects'. Copy the 'projects' folder into the 'data' directory
     # at the root of this Hugo site.
@@ -174,7 +174,7 @@ googleAnalytics = ""
       name = "Jabe Bloom"
       position = "CoFounder & Chief SocioTechnical Officer"
       livesIn = "[Pittsburgh, PA](#some-maps-url)"
-      bio = """An experienced executive leader of software and product development companies. For 20 years he has focused on connecting design with software engineering and operational excellence. 
+      bio = """An experienced executive leader of software and product development companies. For 20 years he has focused on connecting design with software engineering and operational excellence.
 
 Currently he is pursuing a PhD in Design Studies at Carnegie Mellon University (PA).  His research focuses on understanding how temporality can better inform Transition Design."""
       social = [
@@ -228,7 +228,7 @@ Currently he is pursuing a PhD in Design Studies at Carnegie Mellon University (
         "Program Manager [Forte Labs](https://www.fortelabs.co/)"
       ]
       # For bio markdown and even multiline strings are available.
-      bio = """Explorer of problem spaces. Empathy, discernment, design, strategy. 
+      bio = """Explorer of problem spaces. Empathy, discernment, design, strategy.
 """
       social = [
         ["fa-twitter", "https://twitter.com/BenMosior"],
@@ -237,7 +237,7 @@ Currently he is pursuing a PhD in Design Studies at Carnegie Mellon University (
 
   # Client section
     [params.clients_list]
-      enable = false 
+      enable = false
       # Possibility to center items
       #center = true
       # Optional client title specifying the involvement
