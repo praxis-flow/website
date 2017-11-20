@@ -217,6 +217,18 @@ Currently he is pursuing a PhD in Design Studies at Carnegie Mellon University (
 """
 # Image size should be at least 360px*360px or the alignment might be affected.
 
+      [[params.team.members]]
+      img = "michele.PNG"
+      name = "Michele Guthrie"
+      position = "Visiting Scientist and DevOps Grandma"
+      #livesIn = "[Fountain Hills, Arizona]( https://www.google.com/maps/place/Fountain+Hills,+AZ+85268/@33.6041911,-111.778541,13z/data=!3m1!4b1!4m5!3m4!1s0x872b989061a57cd1:0xbeacef3478713137!8m2!3d33.6042079!4d-111.7256936)"
+      scope = [
+        "International Speaker on Software Development, DevOps, and Release Management"
+        ]
+      bio = "Progressive technologist with a focus on helping organizations make the transition from traditional development/system practices to modern tooling, processes and mindset. Subject matter expert in the areas of software development, DevOps strategy, release management, and overall continuous improvement. Her 36 years of industry background has included: manufacturing, IT security, quality, internal controls, healthcare, engineering, financial institutions and government. Roles have included: Agile Coach, Program Manager, Project Manager, IT Director, Release Manager, Software Engineer, Scrum Master, Systems Programmer, Release Train Engineer, Systems Analyst, Business Architect, Product Support, and various management positions. "
+
+      social = ["fa-linkedin", "https://www.linkedin.com/in/michele-guthrie-62a3536/"]
+
      [[params.team.members]]
 
        img = "Carlos-Casanova.jpg"
