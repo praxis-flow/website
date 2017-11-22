@@ -221,7 +221,7 @@ Currently he is pursuing a PhD in Design Studies at Carnegie Mellon University (
       img = "michele.PNG"
       name = "Michele Guthrie"
       position = "Visiting Scientist and DevOps Grandma"
-      #livesIn = "[Fountain Hills, Arizona]( https://www.google.com/maps/place/Fountain+Hills,+AZ+85268/@33.6041911,-111.778541,13z/data=!3m1!4b1!4m5!3m4!1s0x872b989061a57cd1:0xbeacef3478713137!8m2!3d33.6042079!4d-111.7256936)"
+      livesIn = "[Fountain Hills, Arizona]( https://www.google.com/maps/place/Fountain+Hills,+AZ+85268/@33.6041911,-111.778541,13z/data=!3m1!4b1!4m5!3m4!1s0x872b989061a57cd1:0xbeacef3478713137!8m2!3d33.6042079!4d-111.7256936)"
       scope = [
         "International Speaker on Software Development, DevOps, and Release Management"
         ]
