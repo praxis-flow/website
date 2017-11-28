@@ -275,6 +275,19 @@ Currently he is pursuing a PhD in Design Studies at Carnegie Mellon University (
         ["fa-linkedin", "https://www.linkedin.com/in/benjaminmosior/"]
       ]
 
+   [[params.team.members]]
+      img = "Paul_Nov_2017_sm.jpg"
+      name = "Paul Hammant"
+      position = "Visiting Scientist"
+      social = [
+        ["fa-home", "https://hammant.org"],
+        ["fa-github-alt", "https://github.com/paul-hammant"],
+        ["fa-twitter", "https://twitter.com/paul_hammant"],
+        ["fa-linkedin", "https://www.linkedin.com/in/paulhammant/"]
+      ]
+      bio = """Paul likes source-control <b>a lot</b>.
+"""
+
   # Client section
     [params.clients_list]
       enable = false
