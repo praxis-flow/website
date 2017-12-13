@@ -159,7 +159,7 @@ googleAnalytics = "UA-109910809-1"
       #reportsTo = "CTO"
       #livesIn = "[Munich, Germany](#some-maps-url)"
       scope = [
-        "Co-Author Pheonix Project, Visible Ops and more..."
+        "Co-Author Phoenix Project, Visible Ops and more..."
       ]
       # For bio markdown and even multiline strings are available.
       bio = """Dynamic and visionary IT Strategist, Chief Scientific Officer and author, with over 25 years experience directing companies to success through a combination of scientific research, Thought leadership and technology architecture, business development and management expertise.
