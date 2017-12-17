@@ -288,6 +288,18 @@ Currently he is pursuing a PhD in Design Studies at Carnegie Mellon University (
       bio = """Paul likes source-control <b>a lot</b>.
 """
 
+# Image size should be at least 360px*360px or the alignment might be affected.
+    [[params.team.members]]
+      img = "VegaFrank.jpg"
+      name = "Frank Vega"
+      position = "Visiting Scientist"
+      social = [
+        ["fa-twitter", "https://twitter.com/fxvega"],
+        ["fa-linkedin", "https://www.linkedin.com/in/frankvega/"]
+      ]
+      bio = """30+ years in IT/IS, as a director, architect, team lead, developer, database modeler, and numerical/data analyst. Kanban Coaching Professional active in national and Denver lean-agile and kanban communities.
+"""
+
   # Client section
     [params.clients_list]
       enable = false
