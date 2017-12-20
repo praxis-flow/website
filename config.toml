@@ -309,9 +309,9 @@ Currently he is pursuing a PhD in Design Studies at Carnegie Mellon University (
      #livesIn = "[Fairfax, VA](# https://www.google.com/maps/place/Fairfax,+VA/@38.8522392,-77.3368574,13z/data=!3m1!4b1!4m5!3m4!1s0x89b64e96394b91cd:0x72326e785448640!8m2!3d38.8462236!4d-77.3063733)"
      # For bio markdown and even multiline strings are available.
      social = [
-       ["fa-twitter", ""],
+       #["fa-twitter", ""],
        ["fa-linkedin", " https://www.linkedin.com/in/yuliya-yatsyshina/"]
-
+     ]
      bio = """An international consultant in finance, education, technology, and entrepreneurship with more than 10 years of experience in generating and integrating business solutions for diverse clients. Also a veteran of the London stage.
 """
 
