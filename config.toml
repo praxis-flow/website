@@ -227,7 +227,9 @@ Currently he is pursuing a PhD in Design Studies at Carnegie Mellon University (
         ]
       bio = "Progressive technologist for 36 years with a focus on helping organizations make the transition from traditional development/system practices to modern tooling, processes and mindset."
 
-      social = ["fa-linkedin", "https://www.linkedin.com/in/michele-guthrie-62a3536/"]
+      social = [
+       ["fa-linkedin", "https://www.linkedin.com/in/michele-guthrie-62a3536/"]
+      ]
 
      [[params.team.members]]
 
