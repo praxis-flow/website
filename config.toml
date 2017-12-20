@@ -198,8 +198,8 @@ Currently he is pursuing a PhD in Design Studies at Carnegie Mellon University (
       name = "Rashida Pratis"
       position = "Design Director & Consultant"
       social = [
-        ["fa-twitter", "#"],
-        ["fa-linkedin", "#"]
+        ["fa-twitter", "https://twitter.com/rashidadesigner"],
+        ["fa-linkedin", "https://www.linkedin.com/in/rashidaprattis/"]
       ]
       bio = """Rashida is passionate about designing human-centered products & services.
 """
@@ -210,8 +210,8 @@ Currently he is pursuing a PhD in Design Studies at Carnegie Mellon University (
       name = "Mike Caponero"
       position = "Director of Training and Instructional Design"
       social = [
-        ["fa-twitter", "#"],
-        ["fa-linkedin", "#"]
+        #["fa-twitter", "#"],
+        ["fa-linkedin", "https://www.linkedin.com/in/mikecaponero/"]
       ]
       bio = """Complex adaptive system based educator specializing in inquiry and experimentation based pedagogy
 """
