@@ -317,6 +317,41 @@ Currently he is pursuing a PhD in Design Studies at Carnegie Mellon University (
      bio = """An international consultant in finance, education, technology, and entrepreneurship with more than 10 years of experience in generating and integrating business solutions for diverse clients. Also a veteran of the London stage.
 """
 
+[[params.team.members]]
+  img = "julias-headshot.jpg"
+  name = "Julias Shaw"
+  position = "Visiting Scientist"
+  livesIn = "[Las Vegas, NV](#https://goo.gl/maps/JQhCr3HSqvL2)"
+  #Scope is for your bragging purposes... link to other projects/sites
+  #scope = [
+  #]
+  # For bio markdown and even multiline strings are available.
+  bio = """Julias has been applying lean and agile techniques to technology and marketing organizations since 1999. He is currently researching engineering practices for virtual reality and augmented reality development.
+  """
+  social = [
+    ["fa-github", "https://github.com/julias-shaw"],
+    ["fa-twitter", "https://twitter.com/mentalartist"],
+    ["fa-linkedin", "https://www.linkedin.com/in/juliasshaw/"]
+  ]
+
+  [[params.team.members]]
+  img = "rob-park-headshot.jpg"
+  name = "Rob Park"
+  position = "Visiting Scientist"
+  #reportsTo = "..."
+  livesIn = "Waltham, MA"
+  #Scope is for your bragging purposes... link to other projects/sites
+  #scope = \[
+  #  "..."
+  #]
+  # For bio markdown and even multiline strings are available.
+  bio = """A developer and team lead since 1990, Rob started practicing Agile methods in 1998 (3 years before they became known as Agile methods!) and found his passion for Extreme Programming in 2000. Practicing TDD since 2002 and specializing in ATDD and specification by example since 2004. Rob is also a lover of clean code and small batch coffee.
+"""
+  social = [
+["fa-twitter", "https://twitter.com/robpark"],
+["fa-linkedin", "https://www.linkedin.com/in/rob-park-2806b11/"]
+  ]
+
   # Client section
     [params.clients_list]
       enable = false
