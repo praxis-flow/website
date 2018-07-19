@@ -1,5 +1,5 @@
 #  Site setting
-baseurl = "http://www.praxisflow.com"
+baseurl = "https://www.praxisflow.com"
 languageCode = "en-us"
 title = "praxisflow"
 theme = "hugo-agency-theme"
