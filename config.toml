@@ -182,17 +182,37 @@ Currently he is pursuing a PhD in Design Studies at Carnegie Mellon University (
         ["fa-linkedin", "https://www.linkedin.com/in/jabebloom/"]
       ]
 
-    [[params.team.members]]
-      img = "teamcat.jpg"
-      name = "Cat Swetel"
-      position = "Director & Principal Consultant"
-      social = [
-        ["fa-twitter", "https://twitter.com/catswetel"],
-        ["fa-linkedin", "https://www.linkedin.com/in/catswetel/"]
-      ]
-      bio = """Cat thinks describing oneself in third person is weird.
-"""
-
+    #[[params.team.members]]
+    #  img = "teamcat.jpg"
+    #  name = "Cat Swetel"
+    #  position = "Director & Principal Consultant"
+    #  social = [
+    #    ["fa-twitter", "https://twitter.com/catswetel"],
+    #    ["fa-linkedin", "https://www.linkedin.com/in/catswetel/"]
+    #  ]
+    #  bio = """Cat thinks describing oneself in third person is weird.
+#"""
+  [[params.team.members]]
+    img = "bobby-headshot.jpg"
+    name = "Bobby Norton"
+    position = "Visiting Scientist"
+    #reportsTo = "CTO"
+    livesIn = "[Chicago, IL](https://goo.gl/maps/W1HYN8g1C132)"
+    #Scope is for your bragging purposes... link to other projects/sites
+    scope = ["Former Lockheed Martin, ThoughtWorks, DRW Trading, Uptake, and
+  more..."]
+    # For bio markdown and even multiline strings are available.
+    bio = """20 years of experience in IT spanning programming, data science,
+  and executive roles. Formerly the tech lead of Cruise, Bobby enjoys helping
+  organizations adapt to the challenges of DevOps by applying complex systems
+  theory, network science, lean thinking, and code.
+  """
+    social = [
+      ["fa-home", "http://www.bobbynorton.com"],
+      ["fa-github", "https://github.com/bobbyno"],
+      ["fa-twitter", "https://twitter.com/bobbynorton"],
+      ["fa-linkedin", "https://www.linkedin.com/in/bobbynorton/"]
+    ]
     [[params.team.members]]
       img = "Team-Rashida1.jpg"
       name = "Rashida Prattis"
