@@ -199,8 +199,7 @@ Currently he is pursuing a PhD in Design Studies at Carnegie Mellon University (
     #reportsTo = "CTO"
     livesIn = "[Chicago, IL](https://goo.gl/maps/W1HYN8g1C132)"
     #Scope is for your bragging purposes... link to other projects/sites
-    scope = ["Former Lockheed Martin, ThoughtWorks, DRW Trading, Uptake, and
-  more..."]
+    scope = ["Former Lockheed Martin, ThoughtWorks, DRW Trading, Uptake, and more..."]
     # For bio markdown and even multiline strings are available.
     bio = """20 years of experience in IT spanning programming, data science,
   and executive roles. Formerly the tech lead of Cruise, Bobby enjoys helping
