@@ -1,0 +1,11 @@
+{{ define "main" }}
+<main>
+  <div class="row">
+    <div class="col-lg-12 text-center">
+      <!-- Ranges through content/post/*.md -->
+      {{ range .Pages }}
+        {{ .Render "summary"}}
+      {{ end }}
+  </div>
+</main>
+{{ end }}
