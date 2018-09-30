@@ -9,7 +9,6 @@
       <aside id="meta">
         <div>
           <h4 id="date"> {{ .Date.Format "Mon Jan 2, 2006" }} </h4>
-          <h5 id="wordcount"> {{ .WordCount }} Words </h5>
         {{ with .Params.topics }}
         <ul id="topics">
           {{ range . }}
