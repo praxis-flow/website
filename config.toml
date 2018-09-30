@@ -286,8 +286,8 @@ Currently he is pursuing a PhD in Design Studies at Carnegie Mellon University (
       livesIn = "Pittsburgh, PA"
       #Scope is for your bragging purposes... link to other projects/sites
       scope = [
-        "Co-Organizer [Map Camp](http://www.map-camp.com/)",
-        "Program Manager [Forte Labs](https://www.fortelabs.co/)"
+        "Founder [Hired Thought](https://hiredthought.com)",
+        "Director of Operations [Forte Labs](https://www.fortelabs.co/)"
       ]
       # For bio markdown and even multiline strings are available.
       bio = """Explorer of problem spaces. Empathy, discernment, design, strategy.
