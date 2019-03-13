@@ -69,6 +69,11 @@ googleAnalytics = "UA-109910809-1"
     name = "Writing"
     weight = 10
 
+    [[menu.postpend]]
+    url = "http://eepurl.com/gkrRXD"
+    name = "Subscribe"
+    weight = 10
+
     # postpended links
     #[[menu.postpend]]
     #  url = "http://gohugo.io"
