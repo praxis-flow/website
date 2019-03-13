@@ -64,10 +64,10 @@ googleAnalytics = "UA-109910809-1"
     #  name = "Hugo"
     #  weight = 10
 
-    #[[menu.prepend]]
-    #  url = "/blog"
-    #  name = "Blog"
-    #  weight = 10
+    [[menu.prepend]]
+    url = "/blog"
+    name = "Writing"
+    weight = 10
 
     # postpended links
     #[[menu.postpend]]
