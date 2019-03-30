@@ -1,7 +1,7 @@
 ---
 title: "Whole Work: Sociotechnicity & DevOps"
 date: 2019-03-27
-draft: true
+draft: false
 ---
 
 Autonomy is a psychological frame about how *individuals* feel — it is inherently individualistic. And if we want to take an approach informed by sociotechnical theory, then instead of the individualistic we want the *sociological*.
