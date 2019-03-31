@@ -12,11 +12,11 @@
     <!-- Twitter Card data -->
     <meta name="twitter:card" content="summary">
     <meta name="twitter:site" content="@praxisflow">
-    <meta name="twitter:title" content="{{ .Site.Title }}">
+    <meta name="twitter:title" content="{{ if .Title }}{{ .Title }}{{ else }}{{ .Site.Title }}{{ end}}">
     <meta name="twitter:description" content="{{ .Summary | truncate 200 }}">
     <meta name="twitter:image" content={{ "img/favicon.png" | absURL }}>
 
-    <meta property="og:title" content="{{ .Site.Title }}" />
+    <meta property="og:title" content="{{ if .Title }}{{ .Title }}{{ else }}{{ .Site.Title }}{{ end}}" />
     <meta property="og:type" content="article" />
     <meta property="og:url" content="{{ .Permalink }}" />
     <meta property="og:image" content="{{ "img/favicon.png" | absURL }}" />
