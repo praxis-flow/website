@@ -469,7 +469,7 @@ Currently he is pursuing a PhD in Design Studies at Carnegie Mellon University (
   # Footer section
   [params.footer]
     enable = true
-    copyright = "All Rights Reserved. Copyright PraxisFlow LLC 2014-2018"
+    copyright = "All Rights Reserved. Copyright PraxisFlow LLC 2014-2019"
 
     [[params.footer.social]]
       icon = "fa-twitter"
