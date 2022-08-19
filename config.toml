@@ -180,7 +180,7 @@ googleAnalytics = "UA-109910809-1"
       ]
 
 [[params.team.members]]
-      img = "AndrewShaferDoDGhentSQ.jpg"
+      img = "AndrewShaferDoDGhentSQSM.jpg"
       name = "Andrew Clay Shafer"
       position = "Chief Solve More Problems Then I Make Officer"
       #reportsTo = "CTO"
