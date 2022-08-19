@@ -147,12 +147,16 @@ googleAnalytics = "UA-109910809-1"
     [[params.about.events]]
       img = "DevOpsDaysGhent.png"
       date = "2009"
-      title="Devopsdays Ghent 2009"
+      title="Devopsdays Ghent"
     [[params.about.events]]
       img = "2.jpg"
       date = "2014"
       title = "Our Humble Beginnings"
       description = "In 2014, Kevin Behr and Jabe Bloom established PraxisFlow to focus our consulting work and scientific and design-led research into enterprise service design and orchestration."
+     [[params.about.events]]
+      img = "devOps10th.png"
+      date = "2019"
+      title="10th Anniversary Devopsdays Ghent"
 
   # Team section
   [params.team]
