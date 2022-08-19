@@ -145,11 +145,11 @@ googleAnalytics = "UA-109910809-1"
     # All images are stored under 'static/img/about'.
     # Replace them with your own.
     [[params.about.events]]
-      img = "2.jpg"
+      img = "DevOpsDaysGhent.png"
       date = "2009"
       title="Devopsdays Ghent 2009"
     [[params.about.events]]
-      img = "1.jpg"
+      img = "2.jpg"
       date = "2014"
       title = "Our Humble Beginnings"
       description = "In 2014, Kevin Behr and Jabe Bloom established PraxisFlow to focus our consulting work and scientific and design-led research into enterprise service design and orchestration."
