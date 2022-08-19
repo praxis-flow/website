@@ -145,7 +145,7 @@ googleAnalytics = "UA-109910809-1"
     # All images are stored under 'static/img/about'.
     # Replace them with your own.
     [[params.about.events]]
-      img = 2.jpg
+      img = "2.jpg"
       date = "2009"
       title="Devopsdays Ghent 2009"
     [[params.about.events]]
