@@ -165,7 +165,7 @@ googleAnalytics = "UA-109910809-1"
     [[params.team.members]]
       img = "kevin-headshot.png"
       name = "Kevin Behr"
-      position = "General Manager and Chief Science Officer"
+      position = "Chief Science Officer"
       #reportsTo = "CTO"
       #livesIn = "[Munich, Germany](#some-maps-url)"
       scope = [
@@ -178,6 +178,23 @@ googleAnalytics = "UA-109910809-1"
         ["fa-twitter", "https://twitter.com/kevinbehr"],
         ["fa-linkedin", "https://www.linkedin.com/in/kevinbehr/"]
       ]
+
+[[params.team.members]]
+      img = "AndrewShaferDoDGhentSQ.jpg"
+      name = "Andrew Clay Shafer"
+      position = "Chief Solve More Problems Then I Make Officer"
+      #reportsTo = "CTO"
+      #livesIn = "[Munich, Germany](#some-maps-url)"
+      scope = [
+        "Founder: Puppet, DevOpsDays; Author, Web Operations"
+      ]
+      # For bio markdown and even multiline strings are available.
+      bio = """With over 20 years experience, Andrew Clay Shafer, has a long history helping people deliver software with better tools and processes. Andrew evangelized DevOps tools and practices before DevOps was a word and helped to organize DevOpsDays events globally since 2009. He’s been involved in a number of infrastructure focused open source communities including Puppet, OpenStack, Cloud Foundry and Kubernetes. He is focused on helping customers modernize their processes and behaviors to make the most of their technology investments."""
+      social = [
+        ["fa-twitter", "https://twitter.com/littleidea"],
+        #["fa-linkedin", "https://www.linkedin.com/in/kevinbehr/"]
+      ]
+
 
     [[params.team.members]]
       img = "Jabe-headshot.png"
