@@ -4,7 +4,12 @@ publish = "public"
 command = "hugo --gc --minify"
 
 [build.environment]
-HUGO_VERSION = "0.92.1"
+HUGO_VERSION = "0.62.1"
+HUGO_ENV = "production"
+HUGO_ENABLEGITINFO = "true"
+
+[context.production.environment]
+HUGO_VERSION = "0.62.1"
 HUGO_ENV = "production"
 HUGO_ENABLEGITINFO = "true"
 
@@ -13,11 +18,11 @@ HUGO_ENABLEGITINFO = "true"
 command = "hugo --config config.toml,config-prod.toml --buildFuture --buildDrafts --gc --minify -b $DEPLOY_PRIME_URL"
 
 [context.deploy-preview.environment]
-HUGO_VERSION = "0.92.1"
+HUGO_VERSION = "0.62.1"
 
 # This will be your staging build
 [context.staging]
 command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
 
 [context.staging.environment]
-HUGO_VERSION = "0.92.1"
+HUGO_VERSION = "0.62.1"
