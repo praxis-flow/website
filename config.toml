@@ -157,9 +157,10 @@ googleAnalytics = "UA-109910809-1"
     center = true
     title = "Our Team"
     subtitle = "Passionate Researchers and Practitioners"
-    description = "PraxisFlow works with leading practitioners who are driving the evolution of management theory and practice. Are you exploring the edge of theory? We'd love to hear from you. 
-    
-    Hit us up - sayhi-at-praxisflow-dot-com"
+    description = "PraxisFlow works with leading practitioners who are driving the evolution of management theory and practice. Are you exploring the edge of theory? 
+    <br/>
+    <br/>
+    We'd love to hear from you. Hit us up - sayhi-at-praxisflow-dot-com"
 
     # All team member's pictures are stored under 'static/img/team'.
     # Replace them with your own too.
