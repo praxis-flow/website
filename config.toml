@@ -261,28 +261,28 @@ Currently he is pursuing a PhD in Design Studies at Carnegie Mellon University (
       # ["fa-linkedin", "https://www.linkedin.com/in/michele-guthrie-62a3536/"]
       #]
 
-     [[params.team.members]]
+#     [[params.team.members]]
 
-       img = "Carlos-Casanova.jpg"
-       name = "Carlos Casanova"
-       position = "Visiting Scientist"
+#       img = "Carlos-Casanova.jpg"
+#       name = "Carlos Casanova"
+#       position = "Visiting Scientist"
 
        #reportsTo = "???"
-       livesIn = "Rhode Island, USA"
+#       livesIn = "Rhode Island, USA"
 
        #Scope is for your bragging purposes... link to other projects/sites
 
-       scope = [
-         "Co-Author: [The CMDB Imperative] (https://www.amazon.com/CMDB-Imperative-Realize-Dream-Nightmares/dp/0137008376)",
-         "International Speaker"
-       ]
+#       scope = [
+#         "Co-Author: [The CMDB Imperative] (https://www.amazon.com/CMDB-Imperative-Realize-Dream-Nightmares/dp/0137008376)",
+#         "International Speaker"
+#       ]
 
        # For bio markdown and even multiline strings are available.
 
-       bio = """A rational thinker with roots in systems engineering and object modeling. Over 25 years of experience delivering simplified solutions that meet current needs while enabling future growth.
+#       bio = """A rational thinker with roots in systems engineering and object modeling. Over 25 years of experience delivering simplified solutions that meet current needs while enabling future growth.
  """
 
-       social = [
+#       social = [
          ["fa-twitter", "https://twitter.com/CarlosCasanova"],
          ["fa-linkedin", "https://www.linkedin.com/in/carlosacasanova/"]
        ]
