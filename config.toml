@@ -196,7 +196,7 @@ googleAnalytics = "UA-109910809-1"
       ]
 
 [[params.team.members]]
-      img = "john-willis.jpg"
+      img = "john-willis-sq.jpg"
       name = "John Willis"
       position = "Chief Resilience Officer"
       #reportsTo = "CTO"
